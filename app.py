@@ -7,4 +7,4 @@ from nltk.tokenize import word_tokenize
 
 text = "I love learning Natural Language Processing!"
 words = word_tokenize(text)
-st.write(words)
+st.write("Tokenization Output:", words)
