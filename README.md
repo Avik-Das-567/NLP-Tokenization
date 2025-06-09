@@ -6,7 +6,8 @@
 - **NLP** stands for **Natural Language Processing**.
 - It is a part of **Artificial Intelligence** that allows computers to **read**, **understand**, and **respond** to human language.
 - It connects **language** and **machines**.
-- **Real-Life Example:** Think of **Google Assistant**, **ChatGPT**, or **Siri**. We talk to them in English, and they **understand our words** and **give answers**. That’s NLP in action.
+- **Example :** Google Assistant, ChatGPT, Siri.
+  - We talk to them in English, and they **understand our words** and **give answers**. That's NLP in action.
 - NLP is used in **almost every app** that understands language. It can be used for **analyzing customer reviews** automatically.
 - NLP is the **brain behind chatbots** and auto-translation.
 ---
@@ -29,11 +30,14 @@
 - **`nltk`**
 - **`streamlit`**
 ---
-### Output of the code
-`['I', 'love', 'learning', 'Natural', 'Language', 'Processing', '!']`
+### How the code works -
+- **Input :**
+```
+"I love learning Natural Language Processing!"
+```
+- **Output :**
+```
+['I', 'love', 'learning', 'Natural', 'Language', 'Processing', '!']
+```
 - The sentence is broken down into **tokens** (words and punctuation).
 ---
-
-
-
-
