@@ -39,7 +39,7 @@ text = "I love learning Natural Language Processing!"
 ```
 - The sentence is broken down into **tokens** (words and punctuation).
 ---
-### Some important points
+### Additional Insights :
 - NLP is used in **almost every app** that understands language.
 - NLP can be used for **analyzing customer reviews** automatically.
 - NLP is the **brain behind chatbots** and auto-translation.
