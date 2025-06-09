@@ -8,8 +8,6 @@
 - It connects **language** and **machines**.
 - **Example :** Google Assistant, ChatGPT, Siri.
   - We talk to them in English, and they **understand our words** and **give answers**. That's NLP in action.
-- NLP is used in **almost every app** that understands language. It can be used for **analyzing customer reviews** automatically.
-- NLP is the **brain behind chatbots** and auto-translation.
 ---
 ### Where is NLP Used?
 - Chatbots like ChatGPT, Google Gemini
@@ -30,14 +28,19 @@
 - **`nltk`**
 - **`streamlit`**
 ---
-### How the code works -
+### How the App Works -
 - **Input :**
 ```
-"I love learning Natural Language Processing!"
+text = "I love learning Natural Language Processing!"
 ```
 - **Output :**
 ```
-['I', 'love', 'learning', 'Natural', 'Language', 'Processing', '!']
+["I", "love", "learning", "Natural", "Language", "Processing", "!"]
 ```
 - The sentence is broken down into **tokens** (words and punctuation).
+---
+### Some important points
+- NLP is used in **almost every app** that understands language.
+- NLP can be used for **analyzing customer reviews** automatically.
+- NLP is the **brain behind chatbots** and auto-translation.
 ---
