@@ -9,4 +9,4 @@ text = "I love learning Natural Language Processing!"
 words = word_tokenize(text)
 
 st.write("Input Text =", text)
-st.write("After Tokenization, Output =", words)
+st.write("After Tokenization, Output is :", words)
