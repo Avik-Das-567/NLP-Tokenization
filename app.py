@@ -8,5 +8,5 @@ from nltk.tokenize import word_tokenize
 text = "I love learning Natural Language Processing!"
 words = word_tokenize(text)
 
-st.write("Input :", text)
-st.write("After Tokenization, Output :", words)
+st.write("Input Text :-\n", text)
+st.write("After Tokenization, Output :-", words)
